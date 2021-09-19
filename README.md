@@ -18,7 +18,7 @@ This is a project for CSE course Operating Systems | Vellore Institute of Techno
 
 # Demo
 
-[Visit Demo Website](https://anish-u.github.io/Bankers-Algorithm-Js/)
+[Visit Demo Website](https://n-liraj-khanna.github.io/Bankers-Algorithm/)
 
 ---
 
